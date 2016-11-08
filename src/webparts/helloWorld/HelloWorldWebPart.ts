@@ -29,7 +29,7 @@ export default class HelloWorldWebPart extends BaseClientSideWebPart<IHelloWorld
             <p class='ms-font-l ms-fontColor-white'>${this.properties.description}</p>
             <p class='ms-font-l ms-fontColor-white'>Loading from ${this.context.pageContext.web.title}</p>
             <a href='https://github.com/SharePoint/sp-dev-docs/wiki' class='ms-Button ${styles.button}'>
-                <span class='ms-Button-label'>Learn more... <i>if you dare</i></span>
+                <span class='ms-Button-label'>Learn more... <i>if you dare!!!</i></span>
             </a>
         </div>
         </div>
